@@ -1,4 +1,36 @@
-![logo](https://github.com/Ansh6603/Ansh6603/blob/main/Hello%20I.png)
+//![logo](https://github.com/Ansh6603/Ansh6603/blob/main/Hello%20I.png)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .logo-container {
+            text-align: center;
+        }
+
+        .logo-container img {
+            vertical-align: middle;
+            max-width: 100%;
+            max-height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="logo-container">
+        <img src="https://github.com/Ansh6603/Ansh6603/blob/main/Hello%20I.png" alt="Logo">
+    </div>
+</body>
+</html>
+
 
 <h1 align="center">Hi 👋, I'm Ansh Bhargava</h1>
 <h3 align="center">Flutter Dev | Tech Enthusiast | DSA Wizard</h3>
